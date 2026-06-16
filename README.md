@@ -100,7 +100,7 @@ docker build -t github-actions-cicd-demo .
 
 ## Successful CI/CD Pipeline
 
-![GitHub Actions Success](docs/github-actions-success.png)
+![GitHub Actions Success]docs/github-actions-success.png
 ```
 
 Builds the application container image.
