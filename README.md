@@ -94,9 +94,13 @@ Runs automated unit tests.
 ```bash
 docker build -t github-actions-cicd-demo .
 
+## Docker Hub Repository
+
+![Docker Hub Repository](docs/dockerhub-image.png)
+
 ## Successful CI/CD Pipeline
 
-![GitHub Actions Success](images/github-actions-success.png)
+![GitHub Actions Success](docs/github-actions-success.png)
 ```
 
 Builds the application container image.
