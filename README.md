@@ -127,6 +127,8 @@ Run the image:
 
 ```bash
 docker run digi2/github-actions-cicd-demo:latest
+
+Docker Hub: [digi2/github-actions-cicd-demo](https://hub.docker.com/r/digi2/github-actions-cicd-demo)
 ```
 
 ---
@@ -144,10 +146,21 @@ docker run digi2/github-actions-cicd-demo:latest
 
 ---
 
+---
+## Key Achievements
+
+- Built an end-to-end CI/CD pipeline using GitHub Actions
+- Automated Python testing and code quality validation
+- Containerized applications using Docker
+- Implemented secure secret management with GitHub Secrets
+- Automated image publishing to Docker Hub
+- Created reusable DevOps workflow templates
+---
+
 ## Author
 
 Babatunde Ayo
 
 DevOps & Cloud Engineer
 
-GitHub: https://github.com/digimind34
+GitHub: [digimind34](https://github.com/digimind34)
