@@ -96,7 +96,7 @@ docker build -t github-actions-cicd-demo .
 
 ## Docker Hub Repository
 
-![Docker Hub Repository](docs/dockerhub-image.png)
+![Docker Hub Repository]docs/dockerhub-image.png
 
 ## Successful CI/CD Pipeline
 
