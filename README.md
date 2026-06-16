@@ -35,7 +35,7 @@ Docker Hub Repository
 
 ## Architecture
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](docs/architecture-diagram.png)
 ```
 
 ---
